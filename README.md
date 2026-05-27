@@ -32,7 +32,7 @@ This will initialize the script and the application will run
 
 # Output Checks 
 Output can be checked using the following command:
-mousepad privilege_escalation_report.txt
+> mousepad privilege_escalation_report.txt
 
 This will display the most recent scan that was chosen by user as well as a timestamp for when the report was generated on the top
 
