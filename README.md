@@ -13,3 +13,13 @@ The application checks:
 8. Writable Direcotries
 9. Path Variables
 
+# Applications
+The toolkit is used solely for scanning the all the files that may be exploited to access higher privileges in a user's system. The scanner thus is used can be used for :
+> Vulnerability Assessment
+> Analyzing high-risk files
+> Identify misconfigured and vulnerable files and mitigate steps to implement fixes and patches
+
+This project is limited to Linux based OS only
+
+# Running
+Clone the repo using 
