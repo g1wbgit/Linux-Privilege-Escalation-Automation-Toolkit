@@ -10,23 +10,23 @@ The application checks:
 5. Cron Jobs
 6. Running systemmd Services
 7. World-Writable Files
-8. Writable Direcotries
+8. Writable Directories
 9. Path Variables
 
 # Applications
 The toolkit is used solely for scanning the all the files that may be exploited to access higher privileges in a user's system. The scanner thus is used can be used for :
-> Vulnerability Assessment
-> Analyzing high-risk files
-> Identify misconfigured and vulnerable files and mitigate steps to implement fixes and patches
+1. Vulnerability Assessment
+2. Analyzing high-risk files
+3. Identify misconfigured and vulnerable files and mitigate steps to implement fixes and patches
 
 This project is limited to Linux based OS only
 
 # Running
 Clone the repo using: git clone https://github.com/g1wbgit/Linux-Privilege-Escalation-Automation-Toolkit.git
 Then run following commands:
-cd Linux-Privilege-Escalation-Automation-Toolkit
-cd 'Linux PEAT'
-python3 'Linux Privilege Escalation Automation Toolkit.py' 
+1. cd Linux-Privilege-Escalation-Automation-Toolkit
+2. cd 'Linux PEAT'
+3. python3 'Linux Privilege Escalation Automation Toolkit.py' 
 
 This will initialize the script and the application will run
 
