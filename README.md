@@ -22,4 +22,21 @@ The toolkit is used solely for scanning the all the files that may be exploited 
 This project is limited to Linux based OS only
 
 # Running
-Clone the repo using 
+Clone the repo using: git clone https://github.com/g1wbgit/Linux-Privilege-Escalation-Automation-Toolkit.git
+Then run following commands:
+cd Linux-Privilege-Escalation-Automation-Toolkit
+cd 'Linux PEAT'
+python3 'Linux Privilege Escalation Automation Toolkit.py' 
+
+This will initialize the script and the application will run
+
+# Output Checks 
+Output can be checked using the following command:
+mousepad privilege_escalation_report.txt
+
+This will display the most recent scan that was chosen by user as well as a timestamp for when the report was generated on the top
+
+# Disclaimer
+This project is developed strictly for educational and authorized security auditing purposes only. Unauthorized use against systems without permission is illegal and unethical.
+
+
