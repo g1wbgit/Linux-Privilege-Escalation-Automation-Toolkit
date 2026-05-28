@@ -22,7 +22,7 @@ The toolkit is used solely for scanning the all the files that may be exploited 
 This project is limited to Linux based OS only
 
 # Running
-Clone the repo using: git clone https://github.com/g1wbgit/Linux-Privilege-Escalation-Automation-Toolkit.git
+Clone the repo on a linux machine using: git clone https://github.com/g1wbgit/Linux-Privilege-Escalation-Automation-Toolkit.git
 Then run following commands:
 1. cd Linux-Privilege-Escalation-Automation-Toolkit
 2. cd 'Linux PEAT'
