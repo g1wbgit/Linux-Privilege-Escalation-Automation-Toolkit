@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime
 
 REPORT_FILE = "privilege_escalation_report.txt"
-MAX_LINES = 40
+MAX_LINES = 1000
 
 
 def clean_output(output):
